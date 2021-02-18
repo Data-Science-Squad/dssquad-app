@@ -1,0 +1,2 @@
+# dssquad-app
+Streamlit application 

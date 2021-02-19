@@ -13,7 +13,7 @@ git clone https://github.com/Data-Science-Squad/dssquad-app.git
 # or via SSH
 git clone git@github.com:Data-Science-Squad/dssquad-app.git
 ```
-### Create a branch that signals your contribution
+### Create a branch that indicates the feature your are working on
 
 Examples:
 

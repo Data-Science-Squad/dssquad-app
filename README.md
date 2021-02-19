@@ -2,6 +2,10 @@
 
 This repo is the source of the DS-Squad Streamlit application. 
 
+# Wiki
+
+https://github.com/Data-Science-Squad/dssquad-app/wiki
+
 # Contributing to the repository
 
 ### Clone the repository

@@ -34,4 +34,6 @@ git push origin my_branch_name
 
 ### Pull request
 
-Once you've pushed content to your branch, sign in to the GitHub repo console and follow the steps the create a pull request.
+To push branches into the main branch, sign in to the GitHub repo console and follow the steps the create a pull request.
+
+https://github.com/Data-Science-Squad/dssquad-datakit/wiki/Creating-a-Pull-Request

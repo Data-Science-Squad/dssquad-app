@@ -3,7 +3,7 @@ name: Deploy app
 on: 
   workflow_dispatch:
   push:
-    branch: dm-test
+    branch: develop
     
 jobs:
   build:

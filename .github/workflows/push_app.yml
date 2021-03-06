@@ -1,7 +1,10 @@
 name: Deploy app
 
-on: [workflow_dispatch]
-
+on: 
+  workflow_dispatch:
+  push:
+    branch: dm-test
+    
 jobs:
   build:
     runs-on: ubuntu-latest
